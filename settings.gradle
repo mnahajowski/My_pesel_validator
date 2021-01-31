@@ -1,0 +1,2 @@
+rootProject.name = "My_pesel_validator"
+include ':app'
